@@ -1,0 +1,355 @@
+# depslib dependency file v1.0
+1525696017 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project\tarefas.c
+
+1525808253 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+	<conio.h>
+
+1525709845 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project\headerfile.h
+
+1525808237 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project\pessoas.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+
+1525808236 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project\pessoas.h
+	"structs.h"
+
+1525799819 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project\structs.h
+
+1525800044 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project\tarefas.h
+	"structs.h"
+
+1526042537 source:c:\users\utilizador\documents\ppp\kanban_project (1)\kanban_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+	<conio.h>
+
+1525881839 c:\users\utilizador\documents\ppp\kanban_project (1)\kanban_project\pessoas.h
+	"structs.h"
+
+1525884416 c:\users\utilizador\documents\ppp\kanban_project (1)\kanban_project\structs.h
+
+1526042523 c:\users\utilizador\documents\ppp\kanban_project (1)\kanban_project\tarefas.h
+	"structs.h"
+
+1525811837 source:c:\users\utilizador\documents\ppp\kanban_project (1)\kanban_project\pessoas.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+
+1526054658 source:c:\users\utilizador\documents\ppp\kanban_project (1)\kanban_project\tarefas.c
+	<stdio.h>
+	<stdlib.h>
+	"tarefas.h"
+	<conio.h>
+
+1526834447 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (2)\kanban_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+	"apont_tarefas.h"
+	<conio.h>
+
+1526720948 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (2)\kanban_project\pessoas.h
+	"structs.h"
+
+1526807842 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (2)\kanban_project\structs.h
+
+1526844675 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (2)\kanban_project\tarefas.h
+	"structs.h"
+	"pessoas.h"
+
+1526811404 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (2)\kanban_project\pessoas.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+
+1526845583 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (2)\kanban_project\tarefas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tarefas.h"
+	"pessoas.h"
+	"apont_tarefas.h"
+
+1526837745 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (2)\kanban_project\apont_tarefas.c
+	<stdio.h>
+	<stdlib.h>
+	"apont_tarefas.h"
+	"tarefas.h"
+	"pessoas.h"
+
+1526814167 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (2)\kanban_project\apont_tarefas.h
+	"structs.h"
+
+1526837472 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (2)\kanban_project\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+
+1526845869 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (2)\kanban_project\mover.c
+	<stdio.h>
+	<stdlib.h>
+	"tarefas.h"
+	"pessoas.h"
+	"apont_tarefas.h"
+
+1526844692 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (2)\kanban_project\datas.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+
+1526862419 source:c:\users\utilizador\documents\ppp\kanban_project_ultimo\kanban_project (2)\kanban_project\apont_tarefas.c
+	<stdio.h>
+	<stdlib.h>
+	"apont_tarefas.h"
+	"tarefas.h"
+	"pessoas.h"
+
+1526817767 c:\users\utilizador\documents\ppp\kanban_project_ultimo\kanban_project (2)\kanban_project\apont_tarefas.h
+	"structs.h"
+
+1526811442 c:\users\utilizador\documents\ppp\kanban_project_ultimo\kanban_project (2)\kanban_project\structs.h
+
+1526862706 c:\users\utilizador\documents\ppp\kanban_project_ultimo\kanban_project (2)\kanban_project\tarefas.h
+	"structs.h"
+	"pessoas.h"
+
+1526724548 c:\users\utilizador\documents\ppp\kanban_project_ultimo\kanban_project (2)\kanban_project\pessoas.h
+	"structs.h"
+
+1526860618 source:c:\users\utilizador\documents\ppp\kanban_project_ultimo\kanban_project (2)\kanban_project\datas.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+
+1526841072 source:c:\users\utilizador\documents\ppp\kanban_project_ultimo\kanban_project (2)\kanban_project\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+
+1526860899 source:c:\users\utilizador\documents\ppp\kanban_project_ultimo\kanban_project (2)\kanban_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+	"apont_tarefas.h"
+	<conio.h>
+
+1526862747 source:c:\users\utilizador\documents\ppp\kanban_project_ultimo\kanban_project (2)\kanban_project\mover.c
+	<stdio.h>
+	<stdlib.h>
+	"tarefas.h"
+	"pessoas.h"
+	"apont_tarefas.h"
+
+1526815004 source:c:\users\utilizador\documents\ppp\kanban_project_ultimo\kanban_project (2)\kanban_project\pessoas.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+
+1526862035 source:c:\users\utilizador\documents\ppp\kanban_project_ultimo\kanban_project (2)\kanban_project\tarefas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tarefas.h"
+	"pessoas.h"
+	"apont_tarefas.h"
+
+1527014677 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (3)\kanban_project\apont_tarefas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"apont_tarefas.h"
+	"tarefas.h"
+	"pessoas.h"
+
+1527010356 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (3)\kanban_project\apont_tarefas.h
+	"structs.h"
+
+1526807844 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (3)\kanban_project\structs.h
+
+1527014328 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (3)\kanban_project\tarefas.h
+	"structs.h"
+	"pessoas.h"
+
+1526918480 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (3)\kanban_project\pessoas.h
+	"structs.h"
+
+1526916354 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (3)\kanban_project\datas.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+
+1527016569 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (3)\kanban_project\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+
+1527014292 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (3)\kanban_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+	"apont_tarefas.h"
+	<conio.h>
+
+1526926298 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (3)\kanban_project\mover.c
+	<stdio.h>
+	<stdlib.h>
+	"tarefas.h"
+	"pessoas.h"
+	"apont_tarefas.h"
+
+1527013445 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (3)\kanban_project\pessoas.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+	"apont_tarefas.h"
+
+1527016294 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (3)\kanban_project\tarefas.c
+	<stdio.h>
+	<stdlib.h>
+	"tarefas.h"
+	"apont_tarefas.h"
+
+1527264126 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (4)\kanban_project\datas.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+
+1527433114 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (4)\kanban_project\pessoas.h
+	"structs.h"
+
+1526807844 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (4)\kanban_project\structs.h
+
+1527433105 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (4)\kanban_project\tarefas.h
+	"structs.h"
+	"pessoas.h"
+
+1527420120 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (4)\kanban_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+	"apont_tarefas.h"
+	<conio.h>
+
+1527433127 c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (4)\kanban_project\apont_tarefas.h
+	"structs.h"
+
+1527435824 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (4)\kanban_project\pessoas.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+	"apont_tarefas.h"
+
+1527435222 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (4)\kanban_project\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+
+1527415974 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (4)\kanban_project\apont_tarefas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"apont_tarefas.h"
+	"tarefas.h"
+	"pessoas.h"
+
+1527420920 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (4)\kanban_project\mover.c
+	<stdio.h>
+	<stdlib.h>
+	"tarefas.h"
+	"pessoas.h"
+	"apont_tarefas.h"
+
+1527433992 source:c:\users\filipa\dropbox\aplicativos\nonio-inforestudante\licenciatura em engenharia informática\2017 2018\2.º semestre\princípios de programação procedimental\c\kanban_project (4)\kanban_project\tarefas.c
+	<stdio.h>
+	<stdlib.h>
+	"tarefas.h"
+	"apont_tarefas.h"
+	<ctype.h>
+	<string.h>
+
+1527419574 source:c:\users\utilizador\documents\ppp\kanban_project final\kanban_project (4)\kanban_project\apont_tarefas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"apont_tarefas.h"
+	"tarefas.h"
+	"pessoas.h"
+
+1527419481 c:\users\utilizador\documents\ppp\kanban_project final\kanban_project (4)\kanban_project\apont_tarefas.h
+	"structs.h"
+
+1526811444 c:\users\utilizador\documents\ppp\kanban_project final\kanban_project (4)\kanban_project\structs.h
+
+1527419482 c:\users\utilizador\documents\ppp\kanban_project final\kanban_project (4)\kanban_project\tarefas.h
+	"structs.h"
+	"pessoas.h"
+
+1527273057 c:\users\utilizador\documents\ppp\kanban_project final\kanban_project (4)\kanban_project\pessoas.h
+	"structs.h"
+
+1527267726 source:c:\users\utilizador\documents\ppp\kanban_project final\kanban_project (4)\kanban_project\datas.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+
+1527424518 source:c:\users\utilizador\documents\ppp\kanban_project final\kanban_project (4)\kanban_project\mover.c
+	<stdio.h>
+	<stdlib.h>
+	"tarefas.h"
+	"pessoas.h"
+	"apont_tarefas.h"
+
+1527348300 source:c:\users\utilizador\documents\ppp\kanban_project final\kanban_project (4)\kanban_project\tarefas.c
+	<stdio.h>
+	<stdlib.h>
+	"tarefas.h"
+	"apont_tarefas.h"
+	<ctype.h>
+	<string.h>
+
+1527423478 source:c:\users\utilizador\documents\ppp\kanban_project final\kanban_project (4)\kanban_project\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+
+1527423719 source:c:\users\utilizador\documents\ppp\kanban_project final\kanban_project (4)\kanban_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+	"apont_tarefas.h"
+	<conio.h>
+
+1527423553 source:c:\users\utilizador\documents\ppp\kanban_project final\kanban_project (4)\kanban_project\pessoas.c
+	<stdio.h>
+	<stdlib.h>
+	"pessoas.h"
+	"tarefas.h"
+	"apont_tarefas.h"
+
